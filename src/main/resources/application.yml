@@ -1,0 +1,10 @@
+elasticsearch:
+  hostname: 192.168.3.72
+  port: 9200
+#spring:
+#  jpa:
+#    database-platform: org.hibernate.dialect.MySQLDialect
+#  data:
+#    elasticsearch:
+#      cluster-nodes: 192.168.3.56:9300
+#      cluster-name: docker-cluster
